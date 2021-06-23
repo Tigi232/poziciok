@@ -1,0 +1,39 @@
+body {
+	margin: 0 !important;
+}
+#sav {
+	position: fixed;
+	background-color: #1e3f53;
+	width: 100%;
+	height: 4em;
+}
+#menu {
+	Width: 2em;
+	position: absolute;
+	top: 1em;
+	right: 1em;
+}
+section {
+	width: 100%;
+	height: 50vw;
+	background: url('../img/mountain.jpg') no-repeat;
+	background-size: 100%;	
+}
+#phoneicon {
+	width: 6em;
+	padding: 100 2% 100 2%;
+}
+#icons {
+	display: block;
+	text-align: center;
+}
+h3 {
+	margin: 0 15% 100 15%;
+	text-align: justify;
+	line-height: 1.6;
+}
+footer {
+	width: 100%;
+	height: 200px;
+	background-color: #aa5821;
+}
